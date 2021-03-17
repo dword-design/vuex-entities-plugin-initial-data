@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/dword-design/vuex-entities-plugin-initial-data/compare/v1.0.3...v1.0.4) (2021-03-17)
+
+
+### Bug Fixes
+
+* lock file maintenance ([#7](https://github.com/dword-design/vuex-entities-plugin-initial-data/issues/7)) ([afc9f15](https://github.com/dword-design/vuex-entities-plugin-initial-data/commit/afc9f15cef64463581a4e3f48a2d125b3a5627bd))
+
 ## [1.0.3](https://github.com/dword-design/vuex-entities-plugin-initial-data/compare/v1.0.2...v1.0.3) (2021-02-17)
 
 
