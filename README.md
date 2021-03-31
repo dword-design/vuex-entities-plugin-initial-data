@@ -64,7 +64,7 @@ $ yarn add @dword-design/vuex-entities-plugin-initial-data
 <!-- LICENSE/ -->
 ## Contribute
 
-Are you missing something or want to contribute? Feel free to file an [issue](https://github.com/dword-design/vuex-entities-plugin-initial-data/issues) or [pull request](https://github.com/dword-design/vuex-entities-plugin-initial-data/pulls)! ⚙️
+Are you missing something or want to contribute? Feel free to file an [issue](https://github.com/dword-design/vuex-entities-plugin-initial-data/issues) or a [pull request](https://github.com/dword-design/vuex-entities-plugin-initial-data/pulls)! ⚙️
 
 ## Support
 
