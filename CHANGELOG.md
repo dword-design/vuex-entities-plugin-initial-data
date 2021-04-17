@@ -1,3 +1,10 @@
+## [1.0.8](https://github.com/dword-design/vuex-entities-plugin-initial-data/compare/v1.0.7...v1.0.8) (2021-04-17)
+
+
+### Bug Fixes
+
+* add init functoin ([#12](https://github.com/dword-design/vuex-entities-plugin-initial-data/issues/12)) ([d336ddb](https://github.com/dword-design/vuex-entities-plugin-initial-data/commit/d336ddbc300236533b1ec256fe886f19c499a38e))
+
 ## [1.0.7](https://github.com/dword-design/vuex-entities-plugin-initial-data/compare/v1.0.6...v1.0.7) (2021-04-12)
 
 
