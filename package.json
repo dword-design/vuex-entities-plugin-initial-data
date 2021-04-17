@@ -20,13 +20,20 @@
     "test": "base test"
   },
   "dependencies": {
-    "parse-pkg-name": "^2.0.0"
+    "parse-packagejson-name": "^1.0.1"
   },
   "devDependencies": {
     "@dword-design/base": "^7.0.0",
+    "@dword-design/functions": "^3.0.1",
+    "@dword-design/puppeteer": "^3.0.4",
     "@dword-design/vuex-entities": "^1.0.9",
+    "esm": "^3.2.25",
+    "execa": "^5.0.0",
+    "nuxt": "^2.15.4",
+    "output-files": "^1.1.25",
     "vue": "^2.6.12",
-    "vuex": "^3.6.2"
+    "vuex": "^3.6.2",
+    "with-local-tmp-dir": "^2.2.19"
   },
   "publishConfig": {
     "access": "public"

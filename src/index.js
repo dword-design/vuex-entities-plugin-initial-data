@@ -1,8 +1,8 @@
-import parsePkgName from 'parse-pkg-name'
+import parsePackagejsonName from 'parse-packagejson-name'
 
 import packageConfig from '@/package.json'
 
-const packageName = parsePkgName(packageConfig.name).name
+const packageName = parsePackagejsonName(packageConfig.name).fullName
 
 export default (options = {}) => {
   if (options.data === undefined) {
