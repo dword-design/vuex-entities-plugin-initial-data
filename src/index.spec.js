@@ -1,4 +1,4 @@
-import { endent } from '@dword-design/functions'
+import { endent, replace } from '@dword-design/functions'
 import puppeteer from '@dword-design/puppeteer'
 import vuexEntities from '@dword-design/vuex-entities'
 import esm from 'esm'
@@ -38,7 +38,9 @@ export default {
         'plugins/plugin.js': endent`
           import vuexEntities from '@dword-design/vuex-entities'
 
-          import self from '${require.resolve('../dist')}'
+          import self from '${
+            require.resolve('../dist') |> replace(/\\/g, '/')
+          }'
             
           export default context =>
           vuexEntities({
