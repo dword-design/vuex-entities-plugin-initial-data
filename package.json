@@ -1,7 +1,7 @@
 {
   "name": "@dword-design/vuex-entities-plugin-initial-data",
   "version": "1.0.9",
-  "description": "",
+  "description": null,
   "repository": "dword-design/vuex-entities-plugin-initial-data",
   "funding": "https://www.buymeacoffee.com/dword",
   "license": "MIT",
@@ -37,5 +37,7 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "homepage": null,
+  "keywords": []
 }
