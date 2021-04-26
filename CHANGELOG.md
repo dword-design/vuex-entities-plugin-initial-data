@@ -1,3 +1,11 @@
+## [1.0.11](https://github.com/dword-design/vuex-entities-plugin-initial-data/compare/v1.0.10...v1.0.11) (2021-04-26)
+
+
+### Bug Fixes
+
+* update dependency @dword-design/puppeteer to v4 ([#20](https://github.com/dword-design/vuex-entities-plugin-initial-data/issues/20)) ([76729ef](https://github.com/dword-design/vuex-entities-plugin-initial-data/commit/76729ef032f6498b19b81fd461d88e8a740125d2))
+* update dependency with-local-tmp-dir to v3 ([#17](https://github.com/dword-design/vuex-entities-plugin-initial-data/issues/17)) ([2d0e2c7](https://github.com/dword-design/vuex-entities-plugin-initial-data/commit/2d0e2c71217b46074060fd613f7e5f64ddd95cd5))
+
 ## [1.0.10](https://github.com/dword-design/vuex-entities-plugin-initial-data/compare/v1.0.9...v1.0.10) (2021-04-26)
 
 
