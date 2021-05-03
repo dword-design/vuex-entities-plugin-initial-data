@@ -29,7 +29,7 @@
     "esm": "^3.2.25",
     "execa": "^5.0.0",
     "nuxt": "^2.15.4",
-    "output-files": "^1.1.25",
+    "output-files": "^2.0.0",
     "vue": "^2.6.12",
     "vuex": "^3.6.2",
     "with-local-tmp-dir": "^3.0.0"
