@@ -1,3 +1,19 @@
+# [2.0.0](https://github.com/dword-design/vuex-entities-plugin-initial-data/compare/v1.0.11...v2.0.0) (2021-05-03)
+
+
+### Bug Fixes
+
+* update dependency @dword-design/base to v8 ([#22](https://github.com/dword-design/vuex-entities-plugin-initial-data/issues/22)) ([9195c70](https://github.com/dword-design/vuex-entities-plugin-initial-data/commit/9195c70ad0b33632957b19e729de0e405d3a72a4))
+
+
+### BREAKING CHANGES
+
+* require Node.js >= 12
+
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+Co-authored-by: Sebastian Landwehr <info@dword-design.de>
+Co-authored-by: GitHub Actions <actions@github.com>
+
 ## [1.0.11](https://github.com/dword-design/vuex-entities-plugin-initial-data/compare/v1.0.10...v1.0.11) (2021-04-26)
 
 
