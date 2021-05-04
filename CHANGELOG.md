@@ -1,3 +1,11 @@
+## [2.0.1](https://github.com/dword-design/vuex-entities-plugin-initial-data/compare/v2.0.0...v2.0.1) (2021-05-04)
+
+
+### Bug Fixes
+
+* update dependency @dword-design/functions to v4 ([#23](https://github.com/dword-design/vuex-entities-plugin-initial-data/issues/23)) ([26111c2](https://github.com/dword-design/vuex-entities-plugin-initial-data/commit/26111c2e9b7706c228abf371788112edc3365d00))
+* update dependency output-files to v2 ([#24](https://github.com/dword-design/vuex-entities-plugin-initial-data/issues/24)) ([5cf91ae](https://github.com/dword-design/vuex-entities-plugin-initial-data/commit/5cf91aef16bad3d5985506fc1efd909e18617d87))
+
 # [2.0.0](https://github.com/dword-design/vuex-entities-plugin-initial-data/compare/v1.0.11...v2.0.0) (2021-05-03)
 
 
