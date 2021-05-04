@@ -1,3 +1,11 @@
+## [2.0.2](https://github.com/dword-design/vuex-entities-plugin-initial-data/compare/v2.0.1...v2.0.2) (2021-05-04)
+
+
+### Bug Fixes
+
+* update dependency @dword-design/vuex-entities to v2 ([#26](https://github.com/dword-design/vuex-entities-plugin-initial-data/issues/26)) ([fdf00cc](https://github.com/dword-design/vuex-entities-plugin-initial-data/commit/fdf00ccf03a29dbc9972be398f2588aaa977ef92))
+* update dependency with-local-tmp-dir to v4 ([#27](https://github.com/dword-design/vuex-entities-plugin-initial-data/issues/27)) ([384e441](https://github.com/dword-design/vuex-entities-plugin-initial-data/commit/384e4414267dc488106e5ede24cc94317fc3a414))
+
 ## [2.0.1](https://github.com/dword-design/vuex-entities-plugin-initial-data/compare/v2.0.0...v2.0.1) (2021-05-04)
 
 
