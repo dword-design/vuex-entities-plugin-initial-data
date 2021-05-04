@@ -1,3 +1,10 @@
+## [2.0.3](https://github.com/dword-design/vuex-entities-plugin-initial-data/compare/v2.0.2...v2.0.3) (2021-05-04)
+
+
+### Bug Fixes
+
+* update dependency @dword-design/puppeteer to v5 ([#25](https://github.com/dword-design/vuex-entities-plugin-initial-data/issues/25)) ([d38f112](https://github.com/dword-design/vuex-entities-plugin-initial-data/commit/d38f1125a2e14a349d0114f5bd08ce64bd9a302f))
+
 ## [2.0.2](https://github.com/dword-design/vuex-entities-plugin-initial-data/compare/v2.0.1...v2.0.2) (2021-05-04)
 
 
