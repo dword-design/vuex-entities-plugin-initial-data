@@ -1308,10 +1308,10 @@
   dependencies:
     puppeteer "^9.0.0"
 
-"@dword-design/vuex-entities@^1.0.9":
-  version "1.0.11"
-  resolved "https://registry.yarnpkg.com/@dword-design/vuex-entities/-/vuex-entities-1.0.11.tgz#13d948e095abc4c57ab55439d306bb90dccbedb7"
-  integrity sha512-VzOAXBwOZkpNS5RwIbwx8+BtXPV9JjangShIIaTEqXqSpAnxt7WD5CuKruCFVnTCQt9bFVzqd/T1hB8fBLfXEA==
+"@dword-design/vuex-entities@^2.0.0":
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/@dword-design/vuex-entities/-/vuex-entities-2.0.0.tgz#2d15f3138f4b6b7307a32da77c1a9c1e49f5bd95"
+  integrity sha512-faCYAYxm9ogoOBxqyYoi3Q60sIRU4RKrp0Xtq0dnA/Dtbb6wDl90X/7sR/VBv+wJv8XM5KfmGhi4J2nfjMmf+Q==
   dependencies:
     "@dword-design/functions" "^3.0.0"
     lower-case-first "^2.0.1"
