@@ -1,3 +1,10 @@
+## [2.0.4](https://github.com/dword-design/vuex-entities-plugin-initial-data/compare/v2.0.3...v2.0.4) (2021-05-28)
+
+
+### Bug Fixes
+
+* update config files ([138f37f](https://github.com/dword-design/vuex-entities-plugin-initial-data/commit/138f37f95a6c93968e1b9203c27f01d10ee27a2e))
+
 ## [2.0.3](https://github.com/dword-design/vuex-entities-plugin-initial-data/compare/v2.0.2...v2.0.3) (2021-05-04)
 
 
