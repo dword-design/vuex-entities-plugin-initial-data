@@ -31,7 +31,7 @@
     "nuxt": "^2.15.4",
     "output-files": "^2.0.0",
     "vue": "^2.6.12",
-    "vuex": "^3.6.2",
+    "vuex": "^4.0.0",
     "with-local-tmp-dir": "^4.0.0"
   },
   "engines": {
