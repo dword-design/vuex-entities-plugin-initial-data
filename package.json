@@ -27,7 +27,7 @@
     "@dword-design/puppeteer": "^5.0.0",
     "@dword-design/vuex-entities": "^2.0.0",
     "esm": "^3.2.25",
-    "execa": "^5.0.0",
+    "execa": "^6.0.0",
     "nuxt": "^2.15.4",
     "output-files": "^2.0.0",
     "vue": "^2.6.12",
